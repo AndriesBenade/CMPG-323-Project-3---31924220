@@ -26,5 +26,5 @@ To delete data from the database, click the trashcan symbol next to the record y
 ### Modify Data?
 To modify the data in the database, click the pencil symbol next to the record you want to modify in one of the views.
 
-## Loggin out?
+## Logging out?
 If you are finished using the web app or if you just want to simply log out, you can click the Logout option found in the sidebar of the web app to logout.
