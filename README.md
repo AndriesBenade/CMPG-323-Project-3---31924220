@@ -16,6 +16,9 @@ To create an account simply click on the Register option found in the sidebar of
 ## Logging In?
 To log in to the web app using an account that you created, simply select the Login option found in the sidebar of the web app and enter all required information for login. After providing information, click login.
 
+## Logging out?
+If you are finished using the web app or if you just want to simply log out, you can click the Logout option found in the sidebar of the web app to logout.
+
 ## Accessing Data?
 ### How?
 If you want to access the data, simply login and use the options found in the sidebar after logging in. Use these options to view, edit and/or delete data from the database.
@@ -25,6 +28,3 @@ To add data to the database, click the + symbol while in any one of the views fo
 To delete data from the database, click the trashcan symbol next to the record you want to delete in one of the views.
 ### Modify Data?
 To modify the data in the database, click the pencil symbol next to the record you want to modify in one of the views.
-
-## Logging out?
-If you are finished using the web app or if you just want to simply log out, you can click the Logout option found in the sidebar of the web app to logout.
