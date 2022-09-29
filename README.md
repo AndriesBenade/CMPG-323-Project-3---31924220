@@ -4,6 +4,7 @@
 ## Web App Link
 https://devicemanagementwebapp-31924220.azurewebsites.net
 ## Forked Repository Link
+* My project is based on the development branch of the forked repository. *
 https://github.com/AndriesBenade/CMPG-323-IOT-Device-Management.git
 
 # Documentation
